@@ -1,4 +1,4 @@
-# computer Vision tutorial 1
+# Computer Vision 1
 
 **Drawing and Painting**
 
