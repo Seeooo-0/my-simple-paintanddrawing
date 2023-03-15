@@ -10,3 +10,4 @@
   - <img width="676" alt="그림1" src="https://user-images.githubusercontent.com/90232567/225294334-cb24bb7c-e0a4-4d42-b939-cce5902d733d.png">
 - 🌄 You can draw pictures on these backgrounds. Like this!
   - <img width="678" alt="그림2" src="https://user-images.githubusercontent.com/90232567/225294651-1dd453a4-d713-47b2-94b4-e836f0b5ab91.png">
+- 🎪 It also has other functions. For example, you can change the color or resize your pen.
